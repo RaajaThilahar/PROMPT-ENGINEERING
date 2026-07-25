@@ -6,16 +6,10 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-# Algorithm: Step 1: Define Scope and Objectives
-1.1 Identify the goal of the report (e.g., educational, research, tech overview)
-1.2 Set the target audience level (e.g., students, professionals)
-1.3 Draft a list of core topics to cover
-Step 2: Create Report Skeleton/Structure
-2.1 Title Page
-2.2 Abstract or Executive Summary
-2.3 Table of Contents
-2.4 Introduction
-2.5 Main Body Sections:
+# AI Tools required: Gemini, PErplexity, ChatGPT, Claude...
+Step1: Write the Prompt for all these 5 questions.
+Collet all the information - Read and refine that
+Step 2: :
 •	Introduction to AI and Machine Learning
 •	What is Generative AI?
 •	Types of Generative AI Models (e.g., GANs, VAEs, Diffusion Models)
@@ -54,9 +48,16 @@ Step 7: Finalize and Export
 7.1 Format the report professionally
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
-
-
-
+_______________________________________________
+Step 8:
+Activities to do with - ChatGPT, Gemini, Claude and Perplexity
+Students should compare
+Accuracy
+Creativity
+Hallucination
+Reasoning
+Speed 
+Engineering usefulness
 # Output
 
 
